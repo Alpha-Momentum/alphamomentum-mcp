@@ -15,8 +15,8 @@
       "headers": [
         {
           "name": "X-API-Key",
-          "description": "AlphaMomentum API key (starts with am_)",
-          "isRequired": true,
+          "description": "Optional. AlphaMomentum API key (starts with am_). Leave empty to sign in with OAuth.",
+          "isRequired": false,
           "isSecret": true
         }
       ]
