@@ -229,8 +229,6 @@ Matches the live [pricing page](https://alphamomentum.ai/pricing):
 | Starter | $5 / month ($50 / year) | 300 calls / minute | 7-day trial |
 | Premium | $10 / month ($100 / year) | Unlimited for normal use | 7-day trial |
 
-> The launch task sheet listed Starter $29 / Premium $69. This README follows the **live site**. Update both together if prices change.
-
 ## Links
 
 - [Documentation](https://alphamomentum.ai/apis/docs)
