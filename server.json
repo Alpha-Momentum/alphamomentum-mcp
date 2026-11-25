@@ -3,7 +3,7 @@
   "name": "io.github.Alpha-Momentum/alphamomentum",
   "title": "AlphaMomentum",
   "description": "US market data for AI agents: fundamentals, prices, filings, ownership and macro.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "https://github.com/Alpha-Momentum/alphamomentum-mcp",
     "source": "github"
