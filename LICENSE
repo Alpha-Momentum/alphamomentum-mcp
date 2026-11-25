@@ -1,0 +1,19 @@
+AlphaMomentum MCP documentation repository
+==========================================
+
+This repository contains documentation and configuration examples only.
+It does not include the AlphaMomentum server source code.
+
+The hosted AlphaMomentum API and MCP service at https://alphamomentum.ai
+and https://mcp.alphamomentum.ai are proprietary and are provided under
+the AlphaMomentum Terms of Service:
+
+  https://alphamomentum.ai/terms
+
+Privacy Policy:
+
+  https://alphamomentum.ai/privacy
+
+You may copy and adapt the configuration snippets in this repository to
+connect your own clients to the hosted service. Doing so does not grant
+any license to the AlphaMomentum software, data, trademarks, or branding.
