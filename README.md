@@ -8,8 +8,6 @@ AlphaMomentum gives your app or agent structured US equity and macro data throug
 
 Coverage includes company fundamentals and financial statements, prices and metrics, SEC filings, earnings, insider and beneficial ownership, 13F institutional holdings, US macro and economic calendar data, GPU rental prices, BIS and FRED statistics, options desk tools, and stock screening — built for AI agents, MCP clients, quant research, and fintech data layers.
 
-> If the launch kit Positioning paragraph differs, replace this section with that exact wording.
-
 ## Connect
 
 - **MCP endpoint:** `https://mcp.alphamomentum.ai/mcp`
